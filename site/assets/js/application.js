@@ -28,3 +28,15 @@
     }
   }
 })()
+
+function App() {
+  return (
+    <div className="App">
+      {/* Other components or content */}
+      <ChatComponent />
+      {/* Other components or content */}
+    </div>
+  );
+}
+
+export default App;
